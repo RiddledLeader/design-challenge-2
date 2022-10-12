@@ -1,0 +1,15 @@
+.container {
+    color:black;
+    background-color: black
+    }
+    
+    .card {
+    margin: 10px;
+    padding: 8px;
+    background-color: whitesmoke
+    }
+    
+    p.date {
+    letter-spacing: 2px
+    }
+    
